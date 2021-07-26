@@ -1,4 +1,4 @@
 1) useState
-2) useEffect
-3) useSelector, useDispatch
+2) useEffect (didMount, didUpdate)
+3) useRef, willUnMount
 4) useContext
